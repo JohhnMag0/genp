@@ -1,4 +1,4 @@
-# 2fa PHP
+# Genp
 
 A random password generator write in C.
 
